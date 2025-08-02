@@ -10,7 +10,7 @@
     <description>This project contains a simple object mapper for XML files. Currently, it only supports reading from
         XML files.
     </description>
-    <url>https://github.com/dfuchss/XMLObjectMapper</url>
+    <url>https://github.com/dfuchss/xml-object-mapper</url>
     <licenses>
         <license>
             <name>MIT License</name>
@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/dfuchss/XMLObjectMapper.git</connection>
-        <developerConnection>scm:git:ssh://github.com:dfuchss/XMLObjectMapper.git</developerConnection>
-        <url>https://github.com/dfuchss/XMLObjectMapper/tree/main</url>
+        <connection>scm:git:git://github.com/dfuchss/xml-object-mapper.git</connection>
+        <developerConnection>scm:git:ssh://github.com:dfuchss/xml-object-mapper.git</developerConnection>
+        <url>https://github.com/dfuchss/xml-object-mapper/tree/main</url>
         <tag>v0.4</tag>
     </scm>
     <properties>
